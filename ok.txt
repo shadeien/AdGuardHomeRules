@@ -222,3 +222,4 @@
 @@||idv.cdn-apple.com^
 @@||idv-prod1.apple.com^
 @@||humb.apple.com^
+@@||s.click.tmall.com^
