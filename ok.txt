@@ -223,3 +223,4 @@
 @@||idv-prod1.apple.com^
 @@||humb.apple.com^
 @@||s.click.tmall.com^
+@@||s.click.taobao.com^
