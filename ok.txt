@@ -224,3 +224,4 @@
 @@||humb.apple.com^
 @@||s.click.tmall.com^
 @@||s.click.taobao.com^
+@@||gia.jd.com^
